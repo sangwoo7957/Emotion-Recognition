@@ -20,5 +20,6 @@
 ## Excecute program
 - execute main.py
 
-** Train, Validation Accuracy is on logs files
+
+### Train, Validation Accuracy is on logs files
 - Use tensorboard to check
